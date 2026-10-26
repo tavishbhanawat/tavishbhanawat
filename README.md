@@ -118,16 +118,6 @@ A Java desktop application for managing electrical appliances and their power se
 
 ---
 
-## 🌱 Currently Learning
-
-- 📊 Python for data analysis
-- ☕ Java and object-oriented programming
-- 🧮 Data structures and algorithms
-- 🗃️ SQL and database concepts
-- 🛠️ Software project development
-
----
-
 ## 🤝 Connect With Me
 
 <p align="center">
