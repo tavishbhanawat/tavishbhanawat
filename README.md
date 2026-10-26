@@ -105,8 +105,6 @@ A student activity verification and digital portfolio platform.
 
 **Technologies:** React, Firebase and Java
 
-🔗 [View my repositories](https://github.com/tavishbhanawat?tab=repositories)
-
 ### ⚡ Smart Energy Management System
 
 A Java desktop application for managing electrical appliances and their power settings.
@@ -118,61 +116,6 @@ A Java desktop application for managing electrical appliances and their power se
 
 **Technologies:** Java, Swing and JDBC
 
-🔗 [View my repositories](https://github.com/tavishbhanawat?tab=repositories)
-
-> Update these links with the direct repository URLs for each project when available. Keep the descriptions aligned with the features implemented in the published code.
-
----
-
-## 📈 GitHub Statistics
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=tavishbhanawat&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00C9A7&icon_color=00C9A7&text_color=C9D1D9&include_all_commits=true"
-    height="175"
-    alt="GitHub statistics"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=tavishbhanawat&layout=compact&hide_border=true&bg_color=0D1117&title_color=00C9A7&text_color=C9D1D9"
-    height="175"
-    alt="Most used programming languages"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=tavishbhanawat&theme=dark&hide_border=true&background=0D1117&ring=00C9A7&fire=00C9A7&currStreakLabel=00C9A7"
-    width="70%"
-    alt="GitHub contribution streak"
-  />
-</p>
-
----
-
-## 🗓️ Contribution Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=tavishbhanawat&bg_color=0D1117&color=C9D1D9&line=00C9A7&point=FFFFFF&area=true&hide_border=true"
-    width="100%"
-    alt="GitHub contribution activity graph"
-  />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/tavishbhanawat/tavishbhanawat/output/github-contribution-grid-snake-dark.svg"
-    alt="GitHub contribution snake animation"
-    width="100%"
-  />
-</p>
-
-> To enable the snake animation, configure a GitHub Actions workflow to generate the SVG and publish it to the `output` branch.
-
 ---
 
 ## 🌱 Currently Learning
@@ -182,7 +125,6 @@ A Java desktop application for managing electrical appliances and their power se
 - 🧮 Data structures and algorithms
 - 🗃️ SQL and database concepts
 - 🛠️ Software project development
-- 📉 Data visualization and analytical thinking
 
 ---
 
